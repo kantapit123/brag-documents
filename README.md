@@ -1,2 +1,2 @@
-# brag-documents
-to keep my achievement 
+# Drag-documents
+To keep my achievement and to keep my goal  
