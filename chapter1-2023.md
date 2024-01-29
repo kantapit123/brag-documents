@@ -1,4 +1,4 @@
-# Intern in DBI at TISCO and 2023
+# Chapter 1: Intern in DBI at TISCO and 2023
 
 ## Goals for this year ⭐️
 * ✅ Write at least 2 Medium blogs. 🗒️
