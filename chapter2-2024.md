@@ -1,8 +1,8 @@
 # Chapter 2: The first year of learning and finding
 
-## Goals for this year ⭐️
+## Goals for this year ⭐️ [7/12]
 
-* Teaching some private or public class. ✅
+* ✅ Teaching some private or public class. 
   * Introduction to Docker and Containers for Cooperative.
   * Data Analystic bootcamp for Cooperative and Harrow International School.
   * DevSusOps for Thaibav.
@@ -10,7 +10,7 @@
     * Kube in use.
   * Docker 101 for DevPool. (PEA)
  
-* Learning more about Cybersecurity. ✅
+* ✅ Learning more about Cybersecurity. 
   * Learn how to apply DevSecOps in real world with INVX Webtrade project.
     * Source Code Scan -> SonarQube
     * Dependencies Scan -> Dependencies check
@@ -20,14 +20,14 @@
 
 * Running for 500 km. [150/500]
 
-* Get certificate about Kubernetes or Docker. ✅
+* ✅ Get certificate about Kubernetes or Docker.
   * [Manage Kubernetes in Google Cloud Skill Badge](https://www.credly.com/badges/dbe4fd7c-bf96-4834-8129-c084e95a2f14/public_url)
   * [Build Infrastructure with Terraform on Google Cloud Skill Badge](https://www.credly.com/badges/f788cbec-61c9-45d1-8c96-53cae40c9ec2/public_url)
 
-* Learning more Japan. ✅
+* ✅ Learning more Japan.
   * Learned on Duolingo 500+ days
 
-* Be a speaker or have a workshop. ✅
+* ✅ Be a speaker or have a workshop.
   * Introduction to Docker and Containers for Cooperative. [Workshop]
   * Data Analystic bootcamp for Cooperative and Harrow International School. [Workshop]
   * DevSusOps for Thaibav. [Workshop]
@@ -35,13 +35,13 @@
     * Kube in use.
   * Docker 101 for DevPool. (PEA) [Workshop]
     
-* Learning how to be a Full-Stack developer such as frontend, backend, mobile develop, infrastructure. ✅
+* ✅ Learning how to be a Full-Stack developer such as frontend, backend, mobile develop, infrastructure.
   * Learn from the real project in LeSSEx and be part-time at Thaibev
 
 * Learn about Architecture Design. []
   * Learn Event Modeling []
 
-* Get other incomes such as Part-time developer, Freeland develop, building a brand.	✅
+* ✅ Get other incomes such as Part-time developer, Freeland develop, building a brand.
   * part-time at Thaibev.
   * New startup project.
 
@@ -64,6 +64,7 @@ Coming soon . . .
 * Travel.
 * Better more than yesterday.
 * Contibute some open source or publish project on git
+* Get Certified Kubernetes Application Developer (CKAD)
 
 ## Projects
 N/A
