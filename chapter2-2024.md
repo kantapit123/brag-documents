@@ -93,6 +93,7 @@ Coming soon . . .
 ## Collaboration & Mentorship
 * Share knowledge with Squad game and porto about docker and kubernetes.
 * Paired with P'lek (Sq.Trading), P'Kit (Sq.Lending), P'tled (Sq.Ddoc), P'J (Sq.Seto) about create DevSecOps pipeline.
+* Take care of Lukodds (Review, Refine, Retro)
 
 ## Design & documentation
 N/A
@@ -106,7 +107,9 @@ N/A
 N/A
 
 ## Outside of work
-N/A
+
+* Facilitatate retrospective for LukODDS team
+* Joined ODDS Clouds team
 
 Blog Posts
 
