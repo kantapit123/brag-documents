@@ -5,4 +5,5 @@ This brag documents is to keep my achievement and to keep my goals 🔥🚀
 
 ## Years
 
-* [2023](2023.md)
+* [2023](chapter1-2023.md)
+* [2024](chapter2-2024.md)
